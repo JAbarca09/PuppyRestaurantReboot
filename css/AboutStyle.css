@@ -1,0 +1,39 @@
+.bgTexture{
+    background-image: url("../images/bgtexture.jpg");
+}
+.bgColor{
+    background-color: #F2E9D9;
+}
+.bgWhite{
+    background-color: white;
+}
+.ContainerFluidBg{
+    background-image: url(../images/bgtexture.jpg);
+    background-size: cover;
+    /* background-position: ; */
+    height: 100%;
+    display: relative;
+}
+.nav-link{
+    color: #5F002B !important;
+    font-family: 'Fugaz One', cursive;
+    font-size: 20px;
+    opacity: 100%;
+}
+.Montauk20{
+    font-size: 20px;
+    color: #5F002B;
+}
+.FooterTxt{
+    font-size: 20px;
+    color: #5F002B;
+}
+@font-face {
+    font-family: "Montauk-Light";
+    src: url("../fonts/Montauk-Light.otf");
+}
+.Montauk20{
+    font-size: 20px;
+    font-family: "Montauk-Light";
+    color: #5F002B;
+}
